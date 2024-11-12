@@ -4,7 +4,7 @@ class Demo
         System.out.println("Welcome to github");
         int a=1;
         int b=2;
-        int ans=a+b;
+        int ans=a-b;
         System.out.println(ans);
     }
 }
